@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MyFont.spritefont</Source>
+      <Name>MyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\MyFont.xnb</Output>
+      <Time>2016-03-01T18:27:38.1896001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyFontCopy.spritefont</Source>
+      <Name>MyFontCopy</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\MyFontCopy.xnb</Output>
+      <Time>2016-03-02T16:43:55.0614001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>snes.png</Source>
+      <Name>snes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\snes.xnb</Output>
+      <Time>2016-03-01T19:04:17.4006001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ping_pong_ball.png</Source>
+      <Name>Ping_pong_ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\Ping_pong_ball.xnb</Output>
+      <Time>2016-03-01T19:06:53.6486001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>glasspaddle2.png</Source>
+      <Name>glasspaddle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\glasspaddle2.xnb</Output>
+      <Time>2016-03-01T20:22:24.8796001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>playNow.png</Source>
+      <Name>playNow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\playNow.xnb</Output>
+      <Time>2016-03-02T15:19:47.0394001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>65937.png</Source>
+      <Name>65937</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\65937.xnb</Output>
+      <Time>2016-03-02T20:37:44.4054001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Arkanoid.png</Source>
+      <Name>Arkanoid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\Arkanoid.xnb</Output>
+      <Time>2016-03-02T22:17:44.0364001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>breakout.png</Source>
+      <Name>breakout</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\breakout.xnb</Output>
+      <Time>2016-03-02T22:29:47.5784001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>arkanoidbg.png</Source>
+      <Name>arkanoidbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\arkanoidbg.xnb</Output>
+      <Time>2016-03-02T22:37:31.9944001+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E3869C16-BA4F-4906-8EE5-B59865FEDDCB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrickContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Zerakul\Documents\Visual Studio 2015\Projects\WallBrick\WallBrick\WallBrick\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-01T17:45:40.0846001+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
